@@ -1,5 +1,29 @@
 <h1 align="center">Hi 👋, I'm Leman Zamanova</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lamanzaman&label=Profile%20views&color=0e75b6&style=flat" alt="lamanzaman" /> </p>
+
+
+<br>
+<p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/>
+<img src="https://komarev.com/ghpvc/?username=LemanZamanova&&style=plastics&&color=blue" align="right"/> </p>
+
+
+<h2 align="center"> 
+
+
+
+<div id="header" align="left">
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300"/>
+
+
+
+
+
+
+
+
+
+ <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+
 
 - 🌱 I’m currently learning **Full-stack**
 
@@ -16,3 +40,17 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lamanzaman&show_icons=true&locale=en&layout=compact" alt="lamanzaman" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lamanzaman&show_icons=true&locale=en" alt="lamanzaman" /></p>
+
+
+
+
+ 
+
+
+
+ <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920"/>
+ 
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>My Stats</b>
+
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/nihatgaribli)
