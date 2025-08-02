@@ -3,7 +3,7 @@
 
 <br>
 <p align="center">
-  <img src="https://i.imgur.com/A6bWGFl.gif" style="margin-right: 80px;" />
+  <img src="https://i.imgur.com/A6bWGFl.gif"/>
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=LemanZamanova&&style=plastics&&color=blue" align="right"/> </p>
@@ -13,7 +13,7 @@
 
 
 
-<div id="header" align="center">
+<div id="header" align="left">
 <!-- <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300"/>
  -->
 
