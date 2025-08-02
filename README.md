@@ -1,20 +1,30 @@
 <h1 align="center">Hi 👋, I'm Leman Zamanova</h1>
 
 
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+<br>
+<p align="center">
   <img src="https://i.imgur.com/A6bWGFl.gif"/>
-  <img src="https://komarev.com/ghpvc/?username=LemanZamanova&&style=plastics&&color=blue" />
-</div>
 
 
-<h2 align="center"></h2>
+<img src="https://komarev.com/ghpvc/?username=LemanZamanova&&style=plastics&&color=blue" align="right"/> </p>
+
+
+<h2 align="center"> 
+
+
 
 <div id="header" align="left">
-  <!-- <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300"/> -->
-  <img src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif" width="300" />
-</div>
+<!-- <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300"/>
+ -->
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<img src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif" width="300" />
+
+
+
+
+
+
+ <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 - 🌱 I’m currently learning **Full-stack**
 
