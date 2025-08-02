@@ -10,7 +10,7 @@
 
 
 <p align="center">
-  <img src="https://i.imgur.com/A6bWGFl.gif"  width="300px" height="150px" />
+  <img src="https://i.imgur.com/A6bWGFl.gif"  width="250px" height="100px" />
 </p>
 <h2 align="center"> 
 
