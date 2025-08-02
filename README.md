@@ -2,12 +2,16 @@
 
 
 <br>
-<p align="center">
-  <img src="https://i.imgur.com/A6bWGFl.gif"/>
 
+<!-- Hello gif və profile views eyni sətrdə -->
+<div style="display: flex; justify-content: center; align-items: center; position: relative;">
+  <img src="https://i.imgur.com/A6bWGFl.gif" />
 
-<img src="https://komarev.com/ghpvc/?username=LemanZamanova&&style=plastics&&color=blue" align="right"/> </p>
-
+  <!-- Profile views tam sağda və yuxarı küncdə -->
+  <div style="position: absolute; right: 0;">
+    <img src="https://komarev.com/ghpvc/?username=LemanZamanova&&style=plastic&&color=blue" />
+  </div>
+</div>
 
 <h2 align="center"> 
 
