@@ -3,14 +3,14 @@
 
 <br>
 
-<!-- Profile views sağda -->
+
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=LemanZamanova&&style=plastic&&color=blue" />
 </p>
 
-<!-- Gif tam ortada -->
+
 <p align="center">
-  <img src="https://i.imgur.com/A6bWGFl.gif" />
+  <img src="https://i.imgur.com/A6bWGFl.gif" height="30px" />
 </p>
 <h2 align="center"> 
 
