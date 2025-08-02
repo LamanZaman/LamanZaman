@@ -3,16 +3,15 @@
 
 <br>
 
-<!-- Hello gif və profile views eyni sətrdə -->
-<div style="display: flex; justify-content: center; align-items: center; position: relative;">
+<div style="position: relative; display: flex; justify-content: center; align-items: center;">
+  <!-- Ortada gif -->
   <img src="https://i.imgur.com/A6bWGFl.gif" />
 
-  <!-- Profile views tam sağda və yuxarı küncdə -->
-  <div style="position: absolute; right: 0;">
+  <!-- Sağ üstdə view counter -->
+  <div style="position: absolute; top: 0; right: 0;">
     <img src="https://komarev.com/ghpvc/?username=LemanZamanova&&style=plastic&&color=blue" />
   </div>
 </div>
-
 <h2 align="center"> 
 
 
