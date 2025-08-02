@@ -3,15 +3,15 @@
 
 <br>
 
-<div style="position: relative; display: flex; justify-content: center; align-items: center;">
-  <!-- Ortada gif -->
-  <img src="https://i.imgur.com/A6bWGFl.gif" />
+<!-- Profile views sağda -->
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=LemanZamanova&&style=plastic&&color=blue" />
+</p>
 
-  <!-- Sağ üstdə view counter -->
-  <div style="position: absolute; top: 0; right: 0;">
-    <img src="https://komarev.com/ghpvc/?username=LemanZamanova&&style=plastic&&color=blue" />
-  </div>
-</div>
+<!-- Gif tam ortada -->
+<p align="center">
+  <img src="https://i.imgur.com/A6bWGFl.gif" />
+</p>
 <h2 align="center"> 
 
 
