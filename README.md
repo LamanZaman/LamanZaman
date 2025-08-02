@@ -4,7 +4,7 @@
 <br>
 <p align="center">
   <img src="https://i.imgur.com/A6bWGFl.gif"/>
-</p>
+
 
 <img src="https://komarev.com/ghpvc/?username=LemanZamanova&&style=plastics&&color=blue" align="right"/> </p>
 
